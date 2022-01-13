@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.tvhola.text="Hola mundillo"
-
+        binding.btnhola.text="Salir"
     }
 }
 
