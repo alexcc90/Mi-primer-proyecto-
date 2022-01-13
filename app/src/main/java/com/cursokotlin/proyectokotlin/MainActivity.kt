@@ -13,8 +13,8 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.tvhola.text="Hola mundillo"
-        binding.btnhola.text="Salir"
+        binding.tvhola.text="Hola Amigotes"
+        binding.btnhola.text="Entrar"
     }
 }
 
