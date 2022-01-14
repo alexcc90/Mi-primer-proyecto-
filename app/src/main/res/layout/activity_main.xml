@@ -20,5 +20,4 @@
         android:text="Hola"
         android:layout_gravity="center"/>
 
-
 </FrameLayout>
